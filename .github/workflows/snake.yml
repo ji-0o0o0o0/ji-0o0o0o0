@@ -13,11 +13,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ji-0o0o0o0
-          output: dist/snake.svg  
+          outputs: dist/snake.svg  
+
+      - name: Debug snake generation
+        run: ls -la dist/ || echo "dist/snake.svg not found"
 
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
