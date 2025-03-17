@@ -9,6 +9,9 @@ on:
 jobs:
   snake:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # ✅ GITHUB_TOKEN에 write 권한 추가
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
