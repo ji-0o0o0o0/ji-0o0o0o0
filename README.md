@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/ji-0o0o0o0/ji-0o0o0o0/blob/output/github-contribution-grid-snake.svg)
 
 # 👋 Hello, I'm [지영]!
 
