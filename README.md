@@ -33,6 +33,4 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
-<p align="center">
-  <img src="https://github.com/ji-0o0o0o0/ji-0o0o0o0/blob/main/dist/snake.svg" width="100%">
-</p>
+![snake gif](https://github.com/ji-0o0o0o0/ji-0o0o0o0/blob/main/dist/snake.svg)
