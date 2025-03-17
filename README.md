@@ -41,4 +41,6 @@
 
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ji-0o0o0o0&theme=github)
+
 ![snake gif](https://github.com/ji-0o0o0o0/ji-0o0o0o0/blob/main/dist/snake.svg)
