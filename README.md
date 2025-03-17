@@ -41,4 +41,4 @@
 
 
 
-![snake gif](https://github.com/ji-0o0o0o0/ji-0o0o0o0/blob/output/dist/snake.svg)
+![snake gif](https://github.com/ji-0o0o0o0/ji-0o0o0o0/blob/main/dist/snake.svg)
