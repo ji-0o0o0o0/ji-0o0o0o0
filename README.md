@@ -1,4 +1,3 @@
-
 # 👋 Hello, I'm [지영]!
 
 💻 Backend Developer | ☕ Java & C# Enthusiast  
@@ -19,10 +18,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ji-0o0o0o0&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-0o0o0o0&layout=compact&theme=dark)
 
-### 📊 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ji-0o0o0o0&theme=github)
-
-
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tlswldud28@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
@@ -30,9 +25,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+%26+Frontend+Developer;Spring+Boot+%7C+Java+%7C+C%23+%7C+SQL;Building+Awesome+Projects!)](https://git.io/typing-svg)
 
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=ji-0o0o0o0&style=for-the-badge)
-
 
 ### 📚 Currently Learning
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -40,7 +33,8 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ji-0o0o0o0&theme=github)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ji-0o0o0o0&theme=github)
-
-![snake gif](https://github.com/ji-0o0o0o0/ji-0o0o0o0/blob/main/dist/snake.svg)
+<p align="center">
+  <img src="https://github.com/ji-0o0o0o0/ji-0o0o0o0/blob/main/dist/snake.svg" alt="Snake animation" />
+</p>
