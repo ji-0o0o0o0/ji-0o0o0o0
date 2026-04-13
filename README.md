@@ -28,15 +28,6 @@
 - 브라운뱃지 수료 (20/20 패스)
 - E-Commerce 프로젝트: Redis 분산락, Kafka 비동기 처리
 
-**항해99 백엔드 부트캠프 8기** (2022.07 - 2022.11)
-
----
-
-## 📚 Ongoing Learning
-
-알고리즘과 CS 기초를 꾸준히 학습하고 있습니다.
-- [TIL 저장소](https://github.com/ji-0o0o0o0/TIL)
-
 ---
 
 ## 📫 Contact
